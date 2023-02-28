@@ -1,0 +1,299 @@
+{
+    "data": [
+        {
+            "id": 32,
+            "campaignName": "aiman",
+            "status": "Pending",
+            "Ctr": 3.5,
+            "startDate": "2022-12-20T09:01:36.308Z",
+            "applicationCategory": "age",
+            "applicationCategoryValues": [
+                "20-29"
+            ]
+        },
+        {
+            "id": 6,
+            "campaignName": "save forest",
+            "status": "Completed",
+            "Ctr": 2.5,
+            "startDate": "2022-12-19T09:11:19.796Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Female"
+            ]
+        },
+        {
+            "id": 33,
+            "campaignName": "chetan",
+            "status": "Completed",
+            "Ctr": 2.5,
+            "startDate": "2022-12-20T09:03:03.982Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "Transmale",
+                "TraneFemale"
+            ]
+        },
+        {
+            "id": 37,
+            "campaignName": "christmas cake",
+            "status": "Completed",
+            "Ctr": 3.5,
+            "startDate": "2022-12-20T09:48:30.464Z",
+            "applicationCategory": "age",
+            "applicationCategoryValues": [
+                ">=60"
+            ]
+        },
+        {
+            "id": 41,
+            "campaignName": "new year",
+            "status": "Draft",
+            "Ctr": 4.5,
+            "startDate": "2022-12-27T09:54:59.071Z",
+            "applicationCategory": "age",
+            "applicationCategoryValues": [
+                "20-29"
+            ]
+        },
+        {
+            "id": 27,
+            "campaignName": "HELLO",
+            "status": "Completed",
+            "Ctr": 3,
+            "startDate": "2022-12-16T05:42:50.443Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Female"
+            ]
+        },
+        {
+            "id": 28,
+            "campaignName": "HELLO ",
+            "status": "Completed",
+            "Ctr": 3,
+            "startDate": "2022-12-16T05:42:50.443Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Female"
+            ]
+        },
+        {
+            "id": 31,
+            "campaignName": "HELLO ",
+            "status": "Pending",
+            "Ctr": 3,
+            "startDate": "2022-12-16T05:42:50.443Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Female"
+            ]
+        },
+        {
+            "id": 30,
+            "campaignName": "HELLO _",
+            "status": "Draft",
+            "Ctr": 3,
+            "startDate": "2022-12-16T05:42:50.443Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Female"
+            ]
+        },
+        {
+            "id": 2,
+            "campaignName": "deepavali awareness",
+            "status": "Pending",
+            "Ctr": 0,
+            "startDate": "2022-12-19T06:50:17.269Z",
+            "applicationCategory": "age",
+            "applicationCategoryValues": [
+                "< 20",
+                ">=60"
+            ]
+        },
+        {
+            "id": 39,
+            "campaignName": "msd",
+            "status": "Completed",
+            "Ctr": 3,
+            "startDate": "2022-12-22T06:26:56.356Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "Female",
+                "Transmale"
+            ]
+        },
+        {
+            "id": 42,
+            "campaignName": "new year",
+            "status": "Draft",
+            "Ctr": 1.5,
+            "startDate": "2023-01-02T10:02:11.760Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Female"
+            ]
+        },
+        {
+            "id": 1,
+            "campaignName": "HELLO",
+            "status": "Pending",
+            "Ctr": 3,
+            "startDate": "2022-12-16T05:42:50.443Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Female"
+            ]
+        },
+        {
+            "id": 4,
+            "campaignName": "onam",
+            "status": "Pending",
+            "Ctr": 2.5,
+            "startDate": "2022-12-19T07:14:59.661Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Transmale"
+            ]
+        },
+        {
+            "id": 36,
+            "campaignName": "HELLO #",
+            "status": "Completed",
+            "Ctr": 3,
+            "startDate": "2022-12-16T05:42:50.443Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Female"
+            ]
+        },
+        {
+            "id": 38,
+            "campaignName": "no way out",
+            "status": "Pending",
+            "Ctr": 4.5,
+            "startDate": "2022-12-20T10:43:31.726Z",
+            "applicationCategory": "age",
+            "applicationCategoryValues": [
+                "30-39",
+                "40-49"
+            ]
+        },
+        {
+            "id": 23,
+            "campaignName": "mass running",
+            "status": "Pending",
+            "Ctr": 3,
+            "startDate": "2022-12-16T05:42:50.443Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Female"
+            ]
+        },
+        {
+            "id": 3,
+            "campaignName": "fine",
+            "status": "Draft",
+            "Ctr": 2.5,
+            "startDate": "2022-12-19T07:01:07.589Z",
+            "applicationCategory": "age",
+            "applicationCategoryValues": [
+                "20-29"
+            ]
+        },
+        {
+            "id": 43,
+            "campaignName": "ehhee",
+            "status": "Pending",
+            "Ctr": 2.5,
+            "startDate": "2023-01-02T10:11:33.556Z",
+            "applicationCategory": "age",
+            "applicationCategoryValues": [
+                "50-59"
+            ]
+        },
+        {
+            "id": 35,
+            "campaignName": "HELLO #",
+            "status": "Completed",
+            "Ctr": 3,
+            "startDate": "2022-12-16T05:42:50.443Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Female"
+            ]
+        },
+        {
+            "id": 29,
+            "campaignName": "HELLO ",
+            "status": "Completed",
+            "Ctr": 3,
+            "startDate": "2022-12-16T05:42:50.443Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Female"
+            ]
+        },
+        {
+            "id": 5,
+            "campaignName": "HELLO",
+            "status": "Completed",
+            "Ctr": 3,
+            "startDate": "2022-12-16T05:42:50.443Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Female"
+            ]
+        },
+        {
+            "id": 40,
+            "campaignName": "panchami",
+            "status": "Completed",
+            "Ctr": 1,
+            "startDate": "2022-12-23T04:39:14.719Z",
+            "applicationCategory": "age",
+            "applicationCategoryValues": [
+                "20-29",
+                "40-49"
+            ]
+        },
+        {
+            "id": 34,
+            "campaignName": "HELLO #",
+            "status": "Pending",
+            "Ctr": 3,
+            "startDate": "2022-12-16T05:42:50.443Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "male",
+                "Female"
+            ]
+        },
+        {
+            "id": 24,
+            "campaignName": "save forest",
+            "status": "Draft",
+            "Ctr": 3,
+            "startDate": "2022-12-19T09:14:27.019Z",
+            "applicationCategory": "gender",
+            "applicationCategoryValues": [
+                "Female",
+                "Transmale"
+            ]
+        }
+    ]
+}

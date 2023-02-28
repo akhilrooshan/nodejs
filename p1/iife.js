@@ -1,5 +1,3 @@
-(
-    function(name){
-        console.log("hy"+" "+ name)
-    }
-)("akhil")
+(function(name){
+    console.log(`hy ${name}`)
+})("akhil")
